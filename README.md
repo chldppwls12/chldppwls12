@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchldppwls12)](https://hits.seeyoufarm.com)
 <!--
 **chldppwls12/chldppwls12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=chldppwls12&show_icons=true&hide_border=true)](https://github.com/chldppwls12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldppwls12&layout=compact)](https://github.com/chldppwls12)
